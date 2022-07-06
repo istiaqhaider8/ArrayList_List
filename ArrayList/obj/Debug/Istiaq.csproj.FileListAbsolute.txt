@@ -1,0 +1,7 @@
+C:\Users\Istiaq\source\repos\ArrayList\ArrayList\bin\Debug\Istiaq.exe.config
+C:\Users\Istiaq\source\repos\ArrayList\ArrayList\bin\Debug\Istiaq.exe
+C:\Users\Istiaq\source\repos\ArrayList\ArrayList\bin\Debug\Istiaq.pdb
+C:\Users\Istiaq\source\repos\ArrayList\ArrayList\obj\Debug\Istiaq.csproj.CoreCompileInputs.cache
+C:\Users\Istiaq\source\repos\ArrayList\ArrayList\obj\Debug\Istiaq.exe
+C:\Users\Istiaq\source\repos\ArrayList\ArrayList\obj\Debug\Istiaq.pdb
+C:\Users\Istiaq\source\repos\ArrayList\ArrayList\obj\Debug\Istiaq.csproj.AssemblyReference.cache

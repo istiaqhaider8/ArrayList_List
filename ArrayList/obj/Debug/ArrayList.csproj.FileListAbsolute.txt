@@ -1,0 +1,2 @@
+C:\Users\Istiaq\source\repos\ArrayList\ArrayList\obj\Debug\ArrayList.csproj.AssemblyReference.cache
+C:\Users\Istiaq\source\repos\ArrayList\ArrayList\obj\Debug\ArrayList.csproj.CoreCompileInputs.cache
